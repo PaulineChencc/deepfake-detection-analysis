@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+data/*
+!data/.gitkeep
+
+output/*
+!output/.gitkeep
+
