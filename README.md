@@ -12,6 +12,7 @@ Analysis code accompanying a manuscript currently under review.
 ## Run
 
 ```bash
-python3 analysis.py --data-dir data --output-dir output
+python3 analysis.py
 ```
 
+The script reads the three CSV files from `data/` and saves the results to `output/`.
